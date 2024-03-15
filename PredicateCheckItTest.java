@@ -3,7 +3,7 @@ import static org.junit.Assert.*;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-public class CheckItTest {
+public class PredicateCheckItTest {
 
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
 
